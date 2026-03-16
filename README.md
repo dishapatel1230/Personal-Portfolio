@@ -12,6 +12,7 @@
 🎯 Goal: Work with top tech companies
 
 📍 Based in India
+
 🌐 Personal Portfolio Website
 
 A modern developer portfolio showcasing projects and skills.
